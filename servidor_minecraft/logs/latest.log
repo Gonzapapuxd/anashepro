@@ -1,24 +1,16 @@
-[23:29:15] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[23:29:15] [ForkJoinPool-1-worker-2/WARN]: Mod treechop uses the version 0.19.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[23:29:15] [main/WARN]: Mod resolution failed
-[23:29:15] [main/INFO]: Immediate reason: [HARD_DEP_NO_CANDIDATE magistuarmory 9.22 {depends cloth-config2 @ [>=15.0.128]}, ROOT_FORCELOAD_SINGLE magistuarmory 9.22]
-[23:29:15] [main/INFO]: Reason: [HARD_DEP magistuarmory 9.22 {depends cloth-config2 @ [>=15.0.128]}, HARD_DEP rpg-minibosses 1.0.9+1.21.1 {depends spell_power @ [>=1.0.4+1.21.1]}, HARD_DEP rpg-minibosses 1.0.9+1.21.1 {depends spell_engine @ [>=1.6.0+1.21.1]}, HARD_DEP rpg-minibosses 1.0.9+1.21.1 {depends extraspellattributes @ [>=1.0.6+1.21.1]}, HARD_DEP rpg-minibosses 1.0.9+1.21.1 {depends wizards @ [>=2.4.2+1.21.1]}]
-[23:29:15] [main/INFO]: SERVER environment disabled: [fabric-renderer-api-v1, fabric-model-loading-api-v1, fabric-keybindings-v0, fabric-renderer-registries-v1, fabric-client-tags-api-v1, fabric-screen-api-v1, fabric-rendering-v0, fabric-sound-api-v1, fabric-rendering-v1, fabric-key-binding-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1]
-[23:29:15] [main/INFO]: Fix: add [add:cloth-config2 15.0.128 ([[15.0.128,∞)]), add:spell_power 1.0.4+1.21.1 ([[1.0.4+1.21.1,∞)]), add:spell_engine 1.6.0+1.21.1 ([[1.6.0+1.21.1,∞)]), add:extraspellattributes 1.0.6+1.21.1 ([[1.0.6+1.21.1,∞)]), add:wizards 2.4.2+1.21.1 ([[2.4.2+1.21.1,∞)])], remove [], replace []
-[23:29:15] [main/ERROR]: Incompatible mods found!
+[23:50:55] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[23:50:55] [ForkJoinPool-1-worker-2/WARN]: Mod treechop uses the version 0.19.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[23:50:55] [main/WARN]: Mod resolution failed
+[23:50:55] [main/INFO]: Immediate reason: [HARD_DEP rpg-minibosses 1.0.9+1.21.1 {depends wizards @ [>=2.4.2+1.21.1]}, HARD_DEP_NO_CANDIDATE wizards 2.4.10+1.21.1 {depends azurelibarmor @ [>=3.0.3]}, ROOT_FORCELOAD_SINGLE rpg-minibosses 1.0.9+1.21.1]
+[23:50:55] [main/INFO]: Reason: [HARD_DEP wizards 2.4.10+1.21.1 {depends azurelibarmor @ [>=3.0.3]}]
+[23:50:55] [main/INFO]: SERVER environment disabled: [fabric-model-loading-api-v1, fabric-renderer-api-v1, fabric-keybindings-v0, fabric-renderer-registries-v1, fabric-client-tags-api-v1, fabric-sound-api-v1, fabric-screen-api-v1, fabric-rendering-v0, fabric-rendering-v1, fabric-key-binding-api-v1, fabric-renderer-indigo, fabric-blockrenderlayer-v1]
+[23:50:55] [main/INFO]: Fix: add [add:azurelibarmor 3.0.3 ([[3.0.3,∞)])], remove [], replace []
+[23:50:55] [main/ERROR]: Incompatible mods found!
 net.fabricmc.loader.impl.FormattedException: Some of your mods are incompatible with the game or each other!
 A potential solution has been determined, this may resolve your problem:
-	 - Install cloth-config2, version 15.0.128 or later.
-	 - Install spell_power, version 1.0.4+1.21.1 or later.
-	 - Install spell_engine, version 1.6.0+1.21.1 or later.
-	 - Install extraspellattributes, version 1.0.6+1.21.1 or later.
-	 - Install wizards, version 2.4.2+1.21.1 or later.
+	 - Install azurelibarmor, version 3.0.3 or later.
 More details:
-	 - Mod 'Epic Knights: Shields, Armor and Weapons' (magistuarmory) 9.22 requires version 15.0.128 or later of cloth-config2, which is missing!
-	 - Mod 'ANARCHY - RPG Minibosses' (rpg-minibosses) 1.0.9+1.21.1 requires version 1.0.4+1.21.1 or later of spell_power, which is missing!
-	 - Mod 'ANARCHY - RPG Minibosses' (rpg-minibosses) 1.0.9+1.21.1 requires version 1.6.0+1.21.1 or later of spell_engine, which is missing!
-	 - Mod 'ANARCHY - RPG Minibosses' (rpg-minibosses) 1.0.9+1.21.1 requires version 1.0.6+1.21.1 or later of extraspellattributes, which is missing!
-	 - Mod 'ANARCHY - RPG Minibosses' (rpg-minibosses) 1.0.9+1.21.1 requires version 2.4.2+1.21.1 or later of wizards, which is missing!
+	 - Mod 'Wizards (RPG Series)' (wizards) 2.4.10+1.21.1 requires version 3.0.3 or later of azurelibarmor, which is missing!
 	at net.fabricmc.loader.impl.FormattedException.ofLocalized(FormattedException.java:51) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.FabricLoaderImpl.load(FabricLoaderImpl.java:196) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.knot.Knot.init(Knot.java:146) ~[fabric-loader-0.16.14.jar:?]

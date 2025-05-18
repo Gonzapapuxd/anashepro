@@ -469,3 +469,10 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:
 [02:11:28] [Server thread/INFO]: [voicechat] Sent secret to _TeyZen_
 [02:14:38] [Server thread/INFO]: com.mojang.authlib.GameProfile@242fb12[id=74b46968-a47b-300d-872d-c3e3cb2e5a72,name=Federicouuuuu,properties={}] lost connection: Disconnected
 [02:14:47] [Server thread/INFO]: com.mojang.authlib.GameProfile@51f7fecc[id=74b46968-a47b-300d-872d-c3e3cb2e5a72,name=Federicouuuuu,properties={}] lost connection: Disconnected
+[02:36:28] [Server thread/INFO]: RORIS_LSD[/127.74.144.132:42019] logged in with entity id 3356 at (-88.5, 70.0, -125.5)
+[02:36:28] [Server thread/INFO]: RORIS_LSD joined the game
+[02:36:29] [Server thread/INFO]: [voicechat] Received secret request of RORIS_LSD (18)
+[02:36:29] [Server thread/INFO]: [voicechat] Sent secret to RORIS_LSD
+[02:36:46] [Server thread/INFO]: [Not Secure] <RORIS_LSD> un lag XD
+[02:36:52] [Server thread/INFO]: [Not Secure] <_TeyZen_> si
+[02:38:16] [Server thread/INFO]: RORIS_LSD has made the advancement [Monster Hunter]

@@ -476,3 +476,57 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:
 [02:36:46] [Server thread/INFO]: [Not Secure] <RORIS_LSD> un lag XD
 [02:36:52] [Server thread/INFO]: [Not Secure] <_TeyZen_> si
 [02:38:16] [Server thread/INFO]: RORIS_LSD has made the advancement [Monster Hunter]
+[02:38:25] [Server thread/INFO]: RORIS_LSD was shot by Skeleton
+[02:39:32] [Server thread/INFO]: RORIS_LSD was shot by Skeleton
+[02:39:56] [Server thread/INFO]: pscgamer12[/127.31.155.234:47901] logged in with entity id 4256 at (-89.5, 72.0, -120.5)
+[02:39:56] [Server thread/INFO]: pscgamer12 joined the game
+[02:39:56] [Server thread/INFO]: [voicechat] Received secret request of pscgamer12 (18)
+[02:39:56] [Server thread/INFO]: [voicechat] Sent secret to pscgamer12
+[02:39:57] [Server thread/INFO]: _TeyZen_ has made the advancement [Monster Hunter]
+[02:40:02] [Server thread/INFO]: Federicouuuuu[/127.44.102.46:60445] logged in with entity id 4313 at (-92.92196333489734, 75.0, -120.41857399631903)
+[02:40:02] [Server thread/INFO]: Federicouuuuu joined the game
+[02:40:04] [Server thread/INFO]: [voicechat] Received secret request of Federicouuuuu (18)
+[02:40:04] [Server thread/INFO]: [voicechat] Sent secret to Federicouuuuu
+[02:40:25] [Server thread/INFO]: RORIS_LSD was shot by Skeleton
+[02:40:28] [Server thread/INFO]: pscgamer12 was slain by Zombie
+[02:40:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[02:40:31] [Server thread/INFO]: ttime set day<--[HERE]
+[02:40:33] [Server thread/INFO]: [Not Secure] <RORIS_LSD> PONGAN DE DIAAAAAAAAA
+[02:40:57] [Server thread/INFO]: RORIS_LSD was shot by Skeleton
+[02:41:05] [Server thread/INFO]: [Not Secure] <RORIS_LSD> ./clear @a
+[02:41:13] [Server thread/INFO]: BrV1570[/127.233.49.90:47325] logged in with entity id 4963 at (-81.5, 72.0, -120.5)
+[02:41:13] [Server thread/INFO]: BrV1570 joined the game
+[02:41:14] [Server thread/INFO]: [voicechat] Received secret request of BrV1570 (18)
+[02:41:14] [Server thread/INFO]: [voicechat] Sent secret to BrV1570
+[02:41:20] [Server thread/INFO]: RORIS_LSD was slain by Zombie
+[02:41:45] [Server thread/WARN]: pscgamer12 moved too quickly! -9.802397927004364,2.9893499858739716,-0.34413038343529934
+[02:41:45] [Server thread/WARN]: BrV1570 moved too quickly! -1.1483730163663637,0.49520087700592796,10.069731223300934
+[02:41:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[02:41:51] [Server thread/INFO]: BrV1570 has made the advancement [Stone Age]
+[02:42:01] [Server thread/INFO]: Incorrect argument for command
+[02:42:01] [Server thread/INFO]: ...Tgamemode survival _TeyZen_<--[HERE]
+[02:42:09] [Server thread/INFO]: BrV1570 was slain by Ultima Thule
+[02:42:27] [Server thread/INFO]: RORIS_LSD was burned to a crisp while fighting Ultima Thule
+[02:42:34] [Server thread/INFO]: pscgamer12 has made the advancement [Stone Age]
+[02:42:48] [Server thread/INFO]: pscgamer12 has made the advancement [Getting an Upgrade]
+[02:43:00] [Server thread/INFO]: Only players may be affected by this command, but the provided selector includes entities
+[02:43:00] [Server thread/INFO]: clear @e<--[HERE]
+[02:43:28] [Server thread/INFO]: Set _TeyZen_'s game mode to Survival Mode
+[02:43:45] [Server thread/INFO]: RORIS_LSD was burned to a crisp while fighting Ultima Thule
+[02:44:31] [Server thread/INFO]: _TeyZen_ was burned to a crisp while fighting Ultima Thule
+[02:44:36] [Server thread/INFO]: RORIS_LSD was burned to a crisp while fighting Ultima Thule
+[02:45:10] [Server thread/INFO]: _TeyZen_ was burned to a crisp while fighting Ultima Thule
+[02:45:52] [Server thread/INFO]: Federicouuuuu has made the advancement [Stone Age]
+[02:45:58] [Server thread/INFO]: BrV1570 was slain by Ultima Thule
+[02:45:59] [Server thread/INFO]: _TeyZen_ was slain by Ultima Thule
+[02:46:00] [Worker-Main-6/WARN]: Empty or non-existent pool: kaisyn:village/exclusives/mediterranean/villager_bishop
+[02:46:05] [Server thread/WARN]: _TeyZen_ moved too quickly! -9.36625890368532,-0.8291870918577047,4.121710612089473
+[02:46:05] [Server thread/WARN]: BrV1570 moved too quickly! -6.324036171294495,0.243240711822736,7.882075208956081
+[02:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
+[02:47:01] [Server thread/INFO]: BrV1570 was slain by _TeyZen_
+[02:47:12] [Server thread/INFO]: RORIS_LSD has made the advancement [Crops of the Wild]
+[02:47:13] [Server thread/INFO]: _TeyZen_ has made the advancement [Crops of the Wild]
+[02:47:28] [Server thread/WARN]: _TeyZen_ moved too quickly! 5.208142733880294,1.2046003784434305,8.840695607670247
+[02:47:28] [Server thread/WARN]: RORIS_LSD moved too quickly! 10.106095830673894,-0.7531999805212024,1.1127751595071658
+[02:47:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
+[02:47:53] [Server thread/INFO]: Federicouuuuu has made the advancement [Getting an Upgrade]

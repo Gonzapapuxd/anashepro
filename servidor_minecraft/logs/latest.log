@@ -1,9 +1,9 @@
-[02:49:39] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[02:49:39] [ForkJoinPool-1-worker-1/WARN]: Mod treechop uses the version 0.19.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[02:49:39] [main/WARN]: Warnings were found!
+[02:58:28] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[02:58:29] [ForkJoinPool-1-worker-1/WARN]: Mod treechop uses the version 0.19.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[02:58:29] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[02:49:39] [main/INFO]: Loading 91 mods:
+[02:58:29] [main/INFO]: Loading 91 mods:
 	- architectury 13.0.6
 	- armoroftheages 1.5.3
 	- azurelib 3.0.18
@@ -112,34 +112,34 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[02:49:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/anashepro/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:49:40] [main/INFO]: Compatibility level set to JAVA_16
-[02:49:40] [main/INFO]: Compatibility level set to JAVA_21
-[02:49:40] [main/WARN]: Reference map 'armoroftheages.refmap.json' for armoroftheages.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:49:40] [main/WARN]: Reference map 'armoroftheages.refmap.json' for armoroftheages.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:49:40] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[02:49:41] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[02:49:41] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[02:49:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[02:49:54] [main/INFO]: Deserializing AOTAConfig from './config/armoroftheages.json'
-[02:49:55] [main/INFO]: Registered azurelib config for auto-sync function
-[02:49:55] [main/INFO]: Customized Bundles!
-[02:49:55] [main/INFO]: Loaded config for: cupboard.json
-[02:49:55] [main/INFO]: Hello Fabric world!
-[02:49:55] [main/INFO]: Loaded config farmersdelight-common.json
-[02:49:55] [main/INFO]: Initialize mod Library Ferret
-[02:49:55] [main/INFO]: Initialized mod Library Ferret
-[02:49:56] [main/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[02:49:56] [main/INFO]: Definitely not up to no good
-[02:49:56] [main/INFO]: Hello Fabric world!
-[02:49:57] [main/INFO]: [voicechat] Compatibility version 18
-[02:49:57] [main/INFO]: [voicechat] Loading plugins
-[02:49:57] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[02:49:57] [main/INFO]: [voicechat] Initializing plugins
-[02:49:57] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[02:49:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:49:59] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[02:50:02] [main/ERROR]: Parsing error loading recipe magistuarmory:steel_ingot_blasting
+[02:58:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/anashepro/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:58:29] [main/INFO]: Compatibility level set to JAVA_16
+[02:58:29] [main/INFO]: Compatibility level set to JAVA_21
+[02:58:30] [main/WARN]: Reference map 'armoroftheages.refmap.json' for armoroftheages.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:58:30] [main/WARN]: Reference map 'armoroftheages.refmap.json' for armoroftheages.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:58:30] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[02:58:31] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[02:58:31] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[02:58:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:58:44] [main/INFO]: Deserializing AOTAConfig from './config/armoroftheages.json'
+[02:58:44] [main/INFO]: Registered azurelib config for auto-sync function
+[02:58:44] [main/INFO]: Customized Bundles!
+[02:58:44] [main/INFO]: Loaded config for: cupboard.json
+[02:58:44] [main/INFO]: Hello Fabric world!
+[02:58:44] [main/INFO]: Loaded config farmersdelight-common.json
+[02:58:44] [main/INFO]: Initialize mod Library Ferret
+[02:58:44] [main/INFO]: Initialized mod Library Ferret
+[02:58:45] [main/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[02:58:45] [main/INFO]: Definitely not up to no good
+[02:58:45] [main/INFO]: Hello Fabric world!
+[02:58:46] [main/INFO]: [voicechat] Compatibility version 18
+[02:58:46] [main/INFO]: [voicechat] Loading plugins
+[02:58:46] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:58:46] [main/INFO]: [voicechat] Initializing plugins
+[02:58:46] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:58:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:58:48] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[02:58:50] [main/ERROR]: Parsing error loading recipe magistuarmory:steel_ingot_blasting
 com.google.gson.JsonParseException: Not a JSON object: "magistuarmory:steel_ingot"
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -156,7 +156,7 @@ com.google.gson.JsonParseException: Not a JSON object: "magistuarmory:steel_ingo
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:50:02] [main/ERROR]: Parsing error loading recipe magistuarmory:barbedclub
+[02:58:50] [main/ERROR]: Parsing error loading recipe magistuarmory:barbedclub
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:barbedclub","count":1}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -173,7 +173,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:50:02] [main/ERROR]: Parsing error loading recipe magistuarmory:pitchfork
+[02:58:51] [main/ERROR]: Parsing error loading recipe magistuarmory:pitchfork
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:pitchfork","count":1}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -190,7 +190,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:50:02] [main/ERROR]: Parsing error loading recipe magistuarmory:blacksmith_hammer
+[02:58:51] [main/ERROR]: Parsing error loading recipe magistuarmory:blacksmith_hammer
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:blacksmith_hammer","count":1}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -207,114 +207,69 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[02:50:02] [main/INFO]: Loaded 2857 recipes
-[02:50:02] [main/INFO]: Loaded 1758 advancements
-[02:50:04] [main/INFO]: Applied 913 biome modifications to 146 of 159 new biomes in 33.28 ms
-[02:50:04] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 4 string chunks with the size of 10000)
-[02:50:04] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[02:50:04] [Server thread/INFO]: Loading properties
-[02:50:04] [Server thread/INFO]: Default game type: SURVIVAL
-[02:50:04] [Server thread/INFO]: Generating keypair
-[02:50:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:50:04] [Server thread/INFO]: Using epoll channel type
-[02:50:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:50:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:50:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:50:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:50:05] [Server thread/INFO]: Preparing level "world"
-[02:50:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:50:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:18] [Server thread/INFO]: Time elapsed: 2000 ms
-[02:50:18] [Server thread/INFO]: Done (13.589s)! For help, type "help"
-[02:50:18] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[02:50:18] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[02:50:24] [Server thread/INFO]: _TeyZen_[/127.250.245.62:47439] logged in with entity id 7 at (-152.52345269967424, 63.0, 16.69999998807907)
-[02:50:24] [Server thread/INFO]: _TeyZen_ joined the game
-[02:50:25] [Server thread/INFO]: BrV1570[/127.233.49.90:51337] logged in with entity id 8 at (199.79906349280745, 64.0, 38.98753858169148)
-[02:50:25] [Server thread/INFO]: BrV1570 joined the game
-[02:50:25] [Server thread/INFO]: [voicechat] Received secret request of _TeyZen_ (18)
-[02:50:25] [Server thread/INFO]: [voicechat] Sent secret to _TeyZen_
-[02:50:25] [Server thread/INFO]: [voicechat] Received secret request of BrV1570 (18)
-[02:50:25] [Server thread/INFO]: [voicechat] Sent secret to BrV1570
-[02:50:27] [Server thread/INFO]: RORIS_LSD[/127.74.144.132:42003] logged in with entity id 174 at (198.30000001192093, 67.79673560066871, 32.167891843565016)
-[02:50:27] [Server thread/INFO]: RORIS_LSD joined the game
-[02:50:27] [Server thread/INFO]: [voicechat] Received secret request of RORIS_LSD (18)
-[02:50:27] [Server thread/INFO]: [voicechat] Sent secret to RORIS_LSD
-[02:50:28] [Server thread/INFO]: pscgamer12[/127.31.155.234:42773] logged in with entity id 195 at (33.16770890910927, 64.0, -332.69999998807907)
-[02:50:28] [Server thread/INFO]: pscgamer12 joined the game
-[02:50:29] [Server thread/INFO]: [voicechat] Received secret request of pscgamer12 (18)
-[02:50:29] [Server thread/INFO]: [voicechat] Sent secret to pscgamer12
-[02:50:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=65, z=-333} class_2338{x=35, y=63, z=-334}
-[02:50:32] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=35, y=65, z=-333} class_2338{x=35, y=63, z=-334}
-[02:50:40] [Server thread/INFO]: Federicouuuuu[/127.44.102.46:35753] logged in with entity id 625 at (-243.79870330495504, 69.0, -128.31976143644638)
-[02:50:40] [Server thread/INFO]: Federicouuuuu joined the game
-[02:50:42] [Server thread/INFO]: [voicechat] Received secret request of Federicouuuuu (18)
-[02:50:42] [Server thread/INFO]: [voicechat] Sent secret to Federicouuuuu
-[02:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[02:51:13] [Server thread/INFO]: _TeyZen_ has made the advancement [Getting an Upgrade]
-[02:51:35] [Server thread/INFO]: pscgamer12 has made the advancement [Acquire Hardware]
-[02:52:00] [Server thread/INFO]: pscgamer12 has made the advancement [Isn't It Iron Pick]
-[02:54:15] [Server thread/INFO]: RORIS_LSD has made the advancement [Sweet Dreams]
-[02:54:19] [Server thread/INFO]: BrV1570 has made the advancement [Sweet Dreams]
-[02:54:33] [Server thread/INFO]: [Not Secure] <RORIS_LSD> pongan para que duerman pocos y se haga de dia
-[02:54:41] [Server thread/INFO]: [Not Secure] <_TeyZen_> otro dia
-[02:54:46] [Server thread/INFO]: Villager class_1646['Villager'/3532, l='ServerLevel[world]', x=163.70, y=81.00, z=-612.93] died, message: 'Villager suffocated in a wall'
-[02:54:46] [Server thread/INFO]: pscgamer12 has made the advancement [Crops of the Wild]
-[02:54:50] [Server thread/INFO]: Federicouuuuu has made the advancement [Sweet Dreams]
-[02:54:50] [Server thread/INFO]: pscgamer12 has made the advancement [Sweet Dreams]
-[02:54:54] [Server thread/INFO]: [Not Secure] <Federicouuuuu> zzz
-[02:54:57] [Server thread/INFO]: [Not Secure] <RORIS_LSD> zzz
-[02:55:00] [Server thread/INFO]: [Not Secure] <pscgamer12> zzz
-[02:55:02] [Server thread/INFO]: [Not Secure] <BrV1570> ZZZ
-[02:55:12] [Server thread/INFO]: [Not Secure] <pscgamer12> zzz
-[02:55:13] [Server thread/INFO]: [Not Secure] <pscgamer12> zzz
-[02:55:14] [Server thread/INFO]: [Not Secure] <pscgamer12> zzz
-[02:55:15] [Server thread/INFO]: [Not Secure] <pscgamer12> zzz
-[02:55:15] [Server thread/INFO]: [Not Secure] <pscgamer12> zzz
-[02:55:16] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:16] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:16] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:17] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:17] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:17] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:17] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:17] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:17] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:17] [Server thread/INFO]: [Not Secure] <RORIS_LSD> zz
-[02:55:17] [Server thread/INFO]: _TeyZen_ lost connection: Disconnected
-[02:55:17] [Server thread/INFO]: _TeyZen_ left the game
-[02:55:17] [Server thread/INFO]: [voicechat] Disconnecting client _TeyZen_
-[02:55:17] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <pscgamer12> z
-[02:55:18] [Server thread/INFO]: pscgamer12 lost connection: Kicked for spamming
-[02:55:18] [Server thread/INFO]: pscgamer12 left the game
-[02:55:18] [Server thread/INFO]: [voicechat] Disconnecting client pscgamer12
-[02:55:18] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:18] [Server thread/INFO]: [Not Secure] <RORIS_LSD> z
-[02:55:19] [Server thread/INFO]: RORIS_LSD lost connection: Kicked for spamming
-[02:55:19] [Server thread/INFO]: RORIS_LSD left the game
-[02:55:19] [Server thread/INFO]: [voicechat] Disconnecting client RORIS_LSD
-[02:55:27] [Server thread/INFO]: pscgamer12[/127.31.155.234:46683] logged in with entity id 4312 at (37.5, 66.0, -503.5)
-[02:55:27] [Server thread/INFO]: pscgamer12 joined the game
-[02:55:27] [Server thread/INFO]: [voicechat] Received secret request of pscgamer12 (18)
-[02:55:27] [Server thread/INFO]: [voicechat] Sent secret to pscgamer12
-[02:55:28] [Server thread/INFO]: RORIS_LSD[/127.74.144.132:55043] logged in with entity id 4427 at (337.5, 63.0, 52.5)
-[02:55:28] [Server thread/INFO]: RORIS_LSD joined the game
-[02:55:29] [Server thread/INFO]: [voicechat] Received secret request of RORIS_LSD (18)
-[02:55:29] [Server thread/INFO]: [voicechat] Sent secret to RORIS_LSD
-[02:55:33] [Server thread/INFO]: _TeyZen_[/127.250.245.62:40291] logged in with entity id 4575 at (-243.98843893982212, 69.0, -127.11051445857288)
-[02:55:33] [Server thread/INFO]: _TeyZen_ joined the game
-[02:55:33] [Server thread/INFO]: [voicechat] Received secret request of _TeyZen_ (18)
-[02:55:33] [Server thread/INFO]: [voicechat] Sent secret to _TeyZen_
-[02:56:44] [Server thread/INFO]: [Not Secure] <RORIS_LSD> no
+[02:58:51] [main/INFO]: Loaded 2857 recipes
+[02:58:51] [main/INFO]: Loaded 1758 advancements
+[02:58:52] [main/INFO]: Applied 913 biome modifications to 146 of 159 new biomes in 29.12 ms
+[02:58:53] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 4 string chunks with the size of 10000)
+[02:58:53] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[02:58:53] [Server thread/INFO]: Loading properties
+[02:58:53] [Server thread/INFO]: Default game type: SURVIVAL
+[02:58:53] [Server thread/INFO]: Generating keypair
+[02:58:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:58:53] [Server thread/INFO]: Using epoll channel type
+[02:58:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:58:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:58:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:58:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:58:53] [Server thread/INFO]: Preparing level "world"
+[02:59:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:59:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:59:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:59:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:59:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:59:05] [Server thread/INFO]: Time elapsed: 1717 ms
+[02:59:05] [Server thread/INFO]: Done (12.079s)! For help, type "help"
+[02:59:05] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:59:05] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[02:59:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@3ccaca5f[id=382d519e-950f-353f-90a7-fa837834c272,name=_TeyZen_,properties={}] lost connection: Disconnected
+[02:59:17] [Server thread/INFO]: _TeyZen_[/127.250.245.62:44107] logged in with entity id 13 at (-612.0787439863893, 76.0, -460.3507592097022)
+[02:59:17] [Server thread/INFO]: _TeyZen_ joined the game
+[02:59:41] [Server thread/INFO]: [voicechat] Received secret request of _TeyZen_ (18)
+[02:59:41] [Server thread/INFO]: [voicechat] Sent secret to _TeyZen_
+[02:59:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24250ms or 485 ticks behind
+[02:59:48] [Server thread/INFO]: RORIS_LSD[/127.74.144.132:55053] logged in with entity id 148 at (332.9645338159866, 63.0, 75.64004963909242)
+[02:59:48] [Server thread/INFO]: RORIS_LSD joined the game
+[02:59:48] [Server thread/INFO]: BrV1570[/127.233.49.90:43669] logged in with entity id 152 at (359.2089497278972, 63.0, 45.6010204785803)
+[02:59:48] [Server thread/INFO]: BrV1570 joined the game
+[02:59:49] [Server thread/INFO]: [voicechat] Received secret request of RORIS_LSD (18)
+[02:59:49] [Server thread/INFO]: [voicechat] Sent secret to RORIS_LSD
+[02:59:49] [Server thread/INFO]: [voicechat] Received secret request of BrV1570 (18)
+[02:59:49] [Server thread/INFO]: [voicechat] Sent secret to BrV1570
+[02:59:53] [Server thread/INFO]: Federicouuuuu[/127.44.102.46:57619] logged in with entity id 368 at (-70.03908464157423, 69.41999998688698, -153.54583369017527)
+[02:59:53] [Server thread/INFO]: Federicouuuuu joined the game
+[02:59:55] [Server thread/INFO]: [voicechat] Received secret request of Federicouuuuu (18)
+[02:59:55] [Server thread/INFO]: [voicechat] Sent secret to Federicouuuuu
+[03:00:15] [Server thread/INFO]: pscgamer12[/127.31.155.234:39899] logged in with entity id 797 at (-19.750188509996846, 62.0, -601.4964662840655)
+[03:00:15] [Server thread/INFO]: pscgamer12 joined the game
+[03:00:16] [Server thread/INFO]: [voicechat] Received secret request of pscgamer12 (18)
+[03:00:16] [Server thread/INFO]: [voicechat] Sent secret to pscgamer12
+[03:00:45] [Server thread/INFO]: RORIS_LSD has made the advancement [Acquire Hardware]
+[03:00:47] [Server thread/WARN]: UUID of added entity already exists: class_1428['Chicken'/1352, l='ServerLevel[world]', x=-29.79, y=68.00, z=-401.14]
+[03:00:47] [Server thread/WARN]: UUID of added entity already exists: class_1472['Sheep'/1354, l='ServerLevel[world]', x=-33.55, y=68.00, z=-401.06]
+[03:01:00] [Server thread/INFO]: BrV1570 has made the advancement [Diamonds!]
+[03:01:02] [Server thread/INFO]: BrV1570 has made the advancement [Acquire Hardware]
+[03:01:19] [Server thread/INFO]: Federicouuuuu lost connection: Disconnected
+[03:01:19] [Server thread/INFO]: Federicouuuuu left the game
+[03:01:19] [Server thread/INFO]: [voicechat] Disconnecting client Federicouuuuu
+[03:01:25] [Server thread/INFO]: RORIS_LSD has made the advancement [Stone Age]
+[03:01:28] [Server thread/INFO]: Federicouuuuu[/127.44.102.46:38105] logged in with entity id 2015 at (0.6143054272044252, 70.0, -306.66676058331706)
+[03:01:28] [Server thread/INFO]: Federicouuuuu joined the game
+[03:01:30] [Server thread/INFO]: [voicechat] Received secret request of Federicouuuuu (18)
+[03:01:30] [Server thread/INFO]: [voicechat] Sent secret to Federicouuuuu
+[03:03:10] [Server thread/INFO]: Villager class_1646['Villager'/4021, l='ServerLevel[world]', x=236.37, y=74.00, z=-603.28] died, message: 'Villager suffocated in a wall'
+[03:04:08] [Server thread/INFO]: Federicouuuuu has made the advancement [Crops of the Wild]
+[03:04:35] [Server thread/WARN]: _TeyZen_ moved too quickly! 4.996493480738621,-0.5764407054569602,-8.843636786382476
+[03:04:35] [Server thread/WARN]: Federicouuuuu moved too quickly! 3.0921095268447516,0.0,-9.563917489774553
+[03:04:35] [Server thread/WARN]: BrV1570 moved too quickly! -9.402233558596208,1.4129092804170114,3.2254319538594416
+[03:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3287ms or 65 ticks behind
+[03:05:03] [Server thread/INFO]: pscgamer12 has made the advancement [Monster Hunter]

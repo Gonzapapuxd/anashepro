@@ -1123,5 +1123,17 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-18 04:37:05 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/iron_plate_armor_feet": {
+    "criteria": {
+      "has_base_armor": "2025-05-18 04:37:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

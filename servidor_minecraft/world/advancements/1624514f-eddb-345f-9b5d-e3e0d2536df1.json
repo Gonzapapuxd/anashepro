@@ -1335,6 +1335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-18 04:19:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2025-05-18 04:22:46 +0000"
@@ -1353,12 +1359,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-05-18 04:24:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-18 04:22:46 +0000"
@@ -1371,21 +1371,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-05-18 04:24:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-18 04:22:46 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-05-18 04:24:49 +0000"
     },
     "done": true
   },
@@ -1413,9 +1401,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_netherrack": "2025-05-18 04:19:01 +0000"
+      "has_log": "2025-05-18 04:24:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-18 04:24:49 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-05-18 04:24:49 +0000"
     },
     "done": true
   },

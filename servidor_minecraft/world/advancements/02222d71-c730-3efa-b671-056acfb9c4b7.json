@@ -1798,15 +1798,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 04:21:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 04:21:15 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_head": {
+    "criteria": {
+      "has_wizard_robe_head": "2025-05-18 04:21:33 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_head": {
+    "criteria": {
+      "has_wizard_robe_head": "2025-05-18 04:21:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-18 04:22:43 +0000"
     },
     "done": true
   },
-  "rpg_series:obtain_wizard_robes": {
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_chest": {
     "criteria": {
-      "wizard_robes": "2025-05-18 04:30:55 +0000"
+      "has_wizard_robe_chest": "2025-05-18 04:24:17 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_chest": {
+    "criteria": {
+      "has_wizard_robe_chest": "2025-05-18 04:24:17 +0000"
     },
     "done": true
   },
@@ -1822,27 +1852,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_sandstone": {
-    "criteria": {
-      "has_sandstone_slab": "2025-05-18 04:26:48 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_head": {
-    "criteria": {
-      "has_wizard_robe_head": "2025-05-18 04:21:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-05-18 04:25:34 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_chest": {
-    "criteria": {
-      "has_wizard_robe_chest": "2025-05-18 04:24:17 +0000"
     },
     "done": true
   },
@@ -1864,39 +1876,15 @@
     },
     "done": true
   },
-  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_legs": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_wizard_robe_legs": "2025-05-18 04:30:55 +0000"
+      "has_redstone": "2025-05-18 04:25:34 +0000"
     },
     "done": true
   },
-  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_legs": {
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
     "criteria": {
-      "has_wizard_robe_legs": "2025-05-18 04:30:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-05-18 04:21:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-05-18 04:21:15 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_chest": {
-    "criteria": {
-      "has_wizard_robe_chest": "2025-05-18 04:24:17 +0000"
-    },
-    "done": true
-  },
-  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_head": {
-    "criteria": {
-      "has_wizard_robe_head": "2025-05-18 04:21:33 +0000"
+      "has_sandstone_slab": "2025-05-18 04:26:48 +0000"
     },
     "done": true
   },
@@ -1906,9 +1894,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/piston": {
+  "rpg_series:obtain_wizard_robes": {
     "criteria": {
-      "has_redstone": "2025-05-18 04:25:34 +0000"
+      "wizard_robes": "2025-05-18 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_smelting_wizard_robe_legs": {
+    "criteria": {
+      "has_wizard_robe_legs": "2025-05-18 04:30:55 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/lapis_lazuli_from_blasting_wizard_robe_legs": {
+    "criteria": {
+      "has_wizard_robe_legs": "2025-05-18 04:30:55 +0000"
     },
     "done": true
   },

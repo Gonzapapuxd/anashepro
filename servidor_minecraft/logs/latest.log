@@ -1,9 +1,9 @@
-[15:39:00] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[15:39:00] [ForkJoinPool-1-worker-2/WARN]: Mod treechop uses the version 0.19.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[15:39:00] [main/WARN]: Warnings were found!
+[20:32:28] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[20:32:28] [ForkJoinPool-1-worker-2/WARN]: Mod treechop uses the version 0.19.3a which isn't compatible with Loader's extended semantic version format (Could not parse version number component '3a'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[20:32:28] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[15:39:00] [main/INFO]: Loading 91 mods:
+[20:32:28] [main/INFO]: Loading 91 mods:
 	- architectury 13.0.6
 	- armoroftheages 1.5.3
 	- azurelib 3.0.18
@@ -112,34 +112,34 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[15:39:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/anashepro/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[15:39:01] [main/INFO]: Compatibility level set to JAVA_16
-[15:39:01] [main/INFO]: Compatibility level set to JAVA_21
-[15:39:01] [main/WARN]: Reference map 'armoroftheages.refmap.json' for armoroftheages.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:39:01] [main/WARN]: Reference map 'armoroftheages.refmap.json' for armoroftheages.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:39:01] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[15:39:02] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[15:39:02] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
-[15:39:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[15:39:17] [main/INFO]: Deserializing AOTAConfig from './config/armoroftheages.json'
-[15:39:17] [main/INFO]: Registered azurelib config for auto-sync function
-[15:39:17] [main/INFO]: Customized Bundles!
-[15:39:17] [main/INFO]: Loaded config for: cupboard.json
-[15:39:17] [main/INFO]: Hello Fabric world!
-[15:39:17] [main/INFO]: Loaded config farmersdelight-common.json
-[15:39:18] [main/INFO]: Initialize mod Library Ferret
-[15:39:18] [main/INFO]: Initialized mod Library Ferret
-[15:39:18] [main/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[15:39:19] [main/INFO]: Definitely not up to no good
-[15:39:19] [main/INFO]: Hello Fabric world!
-[15:39:19] [main/INFO]: [voicechat] Compatibility version 18
-[15:39:19] [main/INFO]: [voicechat] Loading plugins
-[15:39:19] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[15:39:19] [main/INFO]: [voicechat] Initializing plugins
-[15:39:19] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[15:39:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:39:21] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[15:39:24] [main/ERROR]: Parsing error loading recipe magistuarmory:steel_ingot_blasting
+[20:32:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/anashepro/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[20:32:28] [main/INFO]: Compatibility level set to JAVA_16
+[20:32:28] [main/INFO]: Compatibility level set to JAVA_21
+[20:32:29] [main/WARN]: Reference map 'armoroftheages.refmap.json' for armoroftheages.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:32:29] [main/WARN]: Reference map 'armoroftheages.refmap.json' for armoroftheages.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:32:29] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:32:29] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[20:32:29] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm.json:net.minecraft.class_314 from mod mm
+[20:32:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[20:32:42] [main/INFO]: Deserializing AOTAConfig from './config/armoroftheages.json'
+[20:32:42] [main/INFO]: Registered azurelib config for auto-sync function
+[20:32:42] [main/INFO]: Customized Bundles!
+[20:32:42] [main/INFO]: Loaded config for: cupboard.json
+[20:32:42] [main/INFO]: Hello Fabric world!
+[20:32:42] [main/INFO]: Loaded config farmersdelight-common.json
+[20:32:43] [main/INFO]: Initialize mod Library Ferret
+[20:32:43] [main/INFO]: Initialized mod Library Ferret
+[20:32:43] [main/INFO]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[20:32:43] [main/INFO]: Definitely not up to no good
+[20:32:44] [main/INFO]: Hello Fabric world!
+[20:32:44] [main/INFO]: [voicechat] Compatibility version 18
+[20:32:44] [main/INFO]: [voicechat] Loading plugins
+[20:32:44] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[20:32:44] [main/INFO]: [voicechat] Initializing plugins
+[20:32:44] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[20:32:44] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:32:46] [main/INFO]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[20:32:48] [main/ERROR]: Parsing error loading recipe magistuarmory:steel_ingot_blasting
 com.google.gson.JsonParseException: Not a JSON object: "magistuarmory:steel_ingot"
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -156,7 +156,7 @@ com.google.gson.JsonParseException: Not a JSON object: "magistuarmory:steel_ingo
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[15:39:25] [main/ERROR]: Parsing error loading recipe magistuarmory:barbedclub
+[20:32:48] [main/ERROR]: Parsing error loading recipe magistuarmory:barbedclub
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:barbedclub","count":1}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -173,7 +173,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[15:39:25] [main/ERROR]: Parsing error loading recipe magistuarmory:pitchfork
+[20:32:48] [main/ERROR]: Parsing error loading recipe magistuarmory:pitchfork
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:pitchfork","count":1}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -190,7 +190,7 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[15:39:25] [main/ERROR]: Parsing error loading recipe magistuarmory:blacksmith_hammer
+[20:32:49] [main/ERROR]: Parsing error loading recipe magistuarmory:blacksmith_hammer
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:blacksmith_hammer","count":1}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -207,39 +207,49 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"magistuarmory:
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[15:39:25] [main/INFO]: Loaded 2857 recipes
-[15:39:25] [main/INFO]: Loaded 1758 advancements
-[15:39:26] [main/INFO]: Applied 913 biome modifications to 146 of 159 new biomes in 37.67 ms
-[15:39:26] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 4 string chunks with the size of 10000)
-[15:39:26] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[15:39:26] [Server thread/INFO]: Loading properties
-[15:39:26] [Server thread/INFO]: Default game type: SURVIVAL
-[15:39:26] [Server thread/INFO]: Generating keypair
-[15:39:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:39:27] [Server thread/INFO]: Using epoll channel type
-[15:39:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:39:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:39:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:39:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:39:27] [Server thread/INFO]: Preparing level "world"
-[15:39:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:39:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[15:39:41] [Server thread/INFO]: Time elapsed: 2427 ms
-[15:39:41] [Server thread/INFO]: Done (14.162s)! For help, type "help"
-[15:39:41] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[15:39:41] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[15:39:55] [Server thread/INFO]: Stopping the server
-[15:39:55] [Server thread/INFO]: Stopping server
-[15:39:55] [Server thread/INFO]: Saving players
-[15:39:55] [Server thread/INFO]: Saving worlds
-[15:39:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:39:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:39:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:39:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:39:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:39:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:39:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:32:49] [main/INFO]: Loaded 2857 recipes
+[20:32:49] [main/INFO]: Loaded 1758 advancements
+[20:32:50] [main/INFO]: Applied 913 biome modifications to 146 of 159 new biomes in 24.46 ms
+[20:32:50] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 4 string chunks with the size of 10000)
+[20:32:50] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:32:50] [Server thread/INFO]: Loading properties
+[20:32:50] [Server thread/INFO]: Default game type: SURVIVAL
+[20:32:50] [Server thread/INFO]: Generating keypair
+[20:32:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:32:51] [Server thread/INFO]: Using epoll channel type
+[20:32:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:32:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:32:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:32:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:32:51] [Server thread/INFO]: Preparing level "world"
+[20:33:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:33:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[20:33:04] [Server thread/INFO]: Time elapsed: 2171 ms
+[20:33:04] [Server thread/INFO]: Done (13.243s)! For help, type "help"
+[20:33:04] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:33:04] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[20:33:55] [Server thread/INFO]: _TeyZen_[/127.250.245.62:52859] logged in with entity id 14 at (-1512.3031345700292, 65.0, 2462.012499988079)
+[20:33:55] [Server thread/INFO]: _TeyZen_ joined the game
+[20:33:56] [Server thread/INFO]: [voicechat] Received secret request of _TeyZen_ (18)
+[20:33:56] [Server thread/INFO]: [voicechat] Sent secret to _TeyZen_
+[20:38:26] [Server thread/INFO]: _TeyZen_ was slain by Igna Phoenix
+[20:52:45] [Server thread/INFO]: NachoTrihart[/127.1.253.142:52927] logged in with entity id 5412 at (-195.69999998807907, 26.0, -826.6999999880791)
+[20:52:45] [Server thread/INFO]: NachoTrihart joined the game
+[20:52:48] [Server thread/INFO]: [voicechat] Received secret request of NachoTrihart (18)
+[20:52:48] [Server thread/INFO]: [voicechat] Sent secret to NachoTrihart
+[20:52:51] [Server thread/INFO]: [Not Secure] <_TeyZen_> hola mogolico
+[20:52:57] [Server thread/INFO]: [Not Secure] <_TeyZen_> me mori y perdi todo
+[20:53:01] [Server thread/INFO]: [Not Secure] <NachoTrihart> hola papu
+[20:53:05] [Server thread/INFO]: [Not Secure] <NachoTrihart> xddd
+[20:53:21] [Server thread/INFO]: NachoTrihart lost connection: Disconnected
+[20:53:21] [Server thread/INFO]: NachoTrihart left the game
+[20:53:21] [Server thread/INFO]: [voicechat] Disconnecting client NachoTrihart
+[20:56:13] [Server thread/WARN]: _TeyZen_ moved too quickly! 7.234736941318943,3.249187078744683,-6.422674734184056
+[20:56:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[20:56:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[20:56:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[20:56:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[21:00:24] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-2003, y=67, z=2186} class_2338{x=-2004, y=66, z=2186}

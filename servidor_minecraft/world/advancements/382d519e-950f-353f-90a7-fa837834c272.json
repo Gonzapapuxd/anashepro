@@ -11,5 +11,17 @@
     },
     "done": true
   },
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-05-18 02:11:27 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:misc_items": {
+    "criteria": {
+      "always": "2025-05-18 02:11:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

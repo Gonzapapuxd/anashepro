@@ -38,7 +38,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-18 02:38:16 +0000",
-      "minecraft:zombie": "2025-05-18 02:41:58 +0000"
+      "minecraft:zombie": "2025-05-18 02:41:58 +0000",
+      "minecraft:creeper": "2025-05-18 04:07:37 +0000"
     },
     "done": false
   },
@@ -812,7 +813,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "baked_potato": "2025-05-18 03:02:07 +0000"
+      "baked_potato": "2025-05-18 03:02:07 +0000",
+      "pumpkin_pie": "2025-05-18 04:09:16 +0000"
     },
     "done": false
   },
@@ -1281,6 +1283,48 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-18 03:58:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-18 04:08:02 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/blaze_powder_from_smelting_fire_robe_chest": {
+    "criteria": {
+      "has_fire_robe_chest": "2025-05-18 04:10:26 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/centurion_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-05-18 04:13:42 +0000"
+    },
+    "done": true
+  },
+  "wizards:recipes/misc/blaze_powder_from_blasting_fire_robe_chest": {
+    "criteria": {
+      "has_fire_robe_chest": "2025-05-18 04:10:26 +0000"
+    },
+    "done": true
+  },
+  "armoroftheages:recipes/decordations/japanese_light_armor_legs": {
+    "criteria": {
+      "has_base_armor": "2025-05-18 04:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 04:07:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-18 04:07:38 +0000"
     },
     "done": true
   },
